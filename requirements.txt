@@ -1,0 +1,9 @@
+requests==2.26.0
+xlwings==0.24.8
+matplotlib==3.4.3
+numpy==1.21.2
+jieba==0.42.1
+beautifulsoup4==4.9.3
+tqdm==4.62.2
+pyecharts==1.9.0
+wordcloud==1.8.1
